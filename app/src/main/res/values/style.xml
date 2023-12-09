@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_top">
+        <item name="android:textColor">@color/mytextcolor2</item>
+        <item name="android:backgroundTint">@color/button_color2</item>
+
+    </style>
+    <style name="button_vertical">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">#384952</item>
+
+    </style>
+    <style name="button">
+        <item name="android:textColor">@color/mytextcolor2</item>
+        <item name="android:backgroundTint">@color/button_color</item>
+    </style>
+</resources>
